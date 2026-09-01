@@ -112,16 +112,6 @@ A **Python-based attendance management system** designed to simplify attendance-
   />
 </p>
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mishraraj14&theme=tokyo-night&hide_border=true"
-    alt="Rajkumar's Contribution Activity Graph"
-    width="100%"
-  />
-</p>
-
 ## 🎯 2026 Goals
 
 * 🚀 Become a professional **Frontend Developer**
