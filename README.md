@@ -106,10 +106,11 @@ A **Python-based attendance management system** designed to simplify attendance-
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mishraraj14&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=mishraraj14&theme=tokyonight&hide_border=true"
+    alt="Rajkumar's GitHub Contribution Streak"
+  />
 </p>
-
----
 
 ## 🎯 2026 Goals
 
