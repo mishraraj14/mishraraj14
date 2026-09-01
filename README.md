@@ -111,7 +111,7 @@ interesting projects.
 📧 **Email:** mishraritesh654563@gmail.com
 
 💼 **LinkedIn:** www.linkedin.com/in/
-rajkumar-mishra-b10076360
+rajkumar-mishra
 
 ---
 
