@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github-banner.png" alt="Rajkumar Mishra - Frontend Developer" width="100%">
+</p>
+
 # 👋 Hi, I'm Rajkumar Mishra
 
 ### 💻 Frontend Developer | Java & Spring Boot Developer
