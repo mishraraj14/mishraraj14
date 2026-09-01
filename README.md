@@ -91,8 +91,16 @@ A **Python-based attendance management system** designed to simplify attendance-
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mishraraj14&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishraraj14&layout=compact&theme=tokyonight" width="48%" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=mishraraj14"
+    alt="Rajkumar's GitHub Statistics"
+    width="48%"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=mishraraj14"
+    alt="Rajkumar's Top Languages"
+    width="48%"
+  />
 </p>
 
 ## 🔥 Contribution Streak
