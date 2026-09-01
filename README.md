@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Rajkumar Mishra
 
-### 💻 Frontend Developer | Java & Spring Boot Developer
+### 💻 Aspiring Frontend Developer | Java & Spring Boot | B.Sc. IT Student
 
 <p align="left">
   <a href="https://github.com/mishraraj14">
